@@ -8,9 +8,14 @@
 <body>
     <h1>Teste de tipos primitivos</h1>
     <?php 
-        // 0x = hexadecimal 0b = binário 0 = Octal
-        $num = 0x1A; // esse número é de base hexadecimal
-        echo "O valor da variável é $num";
+        $v1 = 300;
+        $v2 = 45.2;
+        $v3 = true; 
+        $v4 = "Gustavo";
+        var_dump($v1);
+        var_dump($v2);
+        var_dump($v3);
+        var_dump($v4);
     ?>
 </body>
 </html>
