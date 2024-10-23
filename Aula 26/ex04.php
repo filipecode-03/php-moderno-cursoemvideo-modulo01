@@ -1,4 +1,4 @@
 <?php 
-    $r = abs(-2000);
+    $r = pi();
     echo "A resposta é $r";
 ?>
