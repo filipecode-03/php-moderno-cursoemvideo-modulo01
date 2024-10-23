@@ -7,6 +7,11 @@
     <title>Resultado Final</title>
 </head>
 <body>
-    
+    <div class="container">
+        <h1>Resultado Final</h1>
+        <?php 
+            
+        ?>
+    </div>
 </body>
 </html>
